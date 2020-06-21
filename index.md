@@ -1,1 +1,3 @@
-A website for my favourite character is currently being built here!
+# Der große Barbossa
+
+Ist ein toller Pirat
