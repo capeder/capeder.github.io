@@ -12,3 +12,6 @@ Captain Hector Barbossa is a fictional character in the Pirates of the Caribbean
 
 > You best start believing in ghost stories, Miss Turner!
 > You're in one!
+
+<img src="https://en.wikipedia.org/wiki/Hector_Barbossa#/media/File:Barbossa_in_Pirates_of_the_Caribbean_At_World's_End.JPG"/>
+
